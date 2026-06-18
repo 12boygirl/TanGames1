@@ -1,7 +1,7 @@
 {
-  "name": "TanGames",
+  "name": "MochitoFr",
   "bot-account": {
-    "username": "TanGames",
+    "username": "MochitoFr",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "solomochito"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,11 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Hlo",
-        "/warp parkour",
-        "Yoo"
+        "im working pls dont disturb",
+        "/lobby",
+        "/mvtp survival",
+        "/mvtp lifesteal",
+        ""
       ]
     },
     "chat-log": true,
